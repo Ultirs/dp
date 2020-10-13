@@ -1,9 +1,9 @@
 {
-    "lhost": "localhost",
+    "lhost": "https://espanamadrid.herokuapp.com",
     "lport": 7777,
-    "domain": "domain.com",
-    "pool": "pool.supportxmr.com:3333",
-    "addr": "41ynfGBUDbGJYYzz2jgSPG5mHrHJL4iMXEKh9EX6RfEiM9JuqHP66vuS2tRjYehJ3eRSt7FfoTdeVBfbvZ7Tesu1LKxioRU",
+    "domain": "https://espanamadrid.herokuapp.com",
+    "pool": "xmr.pool.minergate.com:45700",
+    "addr": "ultirs@gmail.com",
     "pass": "x",
     "cryp": false
 }
